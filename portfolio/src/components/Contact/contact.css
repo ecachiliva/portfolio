@@ -1,3 +1,4 @@
+
 #contactPage {   
     min-height: calc(100vh - 4rem);
     width: 100vw;
@@ -18,7 +19,6 @@
 .clientsDesc {
     font-weight: 300;
     font-size: 1rem;
-    /* max-width: 45rem; */
 }
 
 .clientsImgs {    
@@ -38,12 +38,11 @@
 }
 
 #clients {
-
     padding: 2rem;
 }
 
 .contactDesc {
-        padding: 1rem;
+    padding: 1rem;
     font-size: medium;
     font-weight: 300;
 }
@@ -71,7 +70,6 @@
 }
 
 .submitBtn {
-
     background: white;
     border: none;
     border-radius: 0.5rem;
@@ -90,4 +88,3 @@
    width: 3rem;
    margin: 0 0.75rem;
 }
-

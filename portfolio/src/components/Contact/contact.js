@@ -62,6 +62,6 @@ import emailjs from '@emailjs/browser';
         </div>
     </section>
   );
-} 
+}; 
 
 export default Contact;
