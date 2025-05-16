@@ -28,13 +28,13 @@
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    width: 100vw;
+    width: 600vw;
     max-width: 65rem;
 }
 
 .worksImg {
     object-fit: cover;
-    height: 20rem;
+    height: 15rem;
     margin: 0.5rem;
 
 }
